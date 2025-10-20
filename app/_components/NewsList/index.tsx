@@ -6,6 +6,7 @@ import Category from '../Category';
 import Date from '../Date';
 import { News } from '@/app/_libs/microcms';
 
+
 type Props = {
   news: News[];
 };
